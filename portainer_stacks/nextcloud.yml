@@ -49,4 +49,5 @@ services:
 
     # Additional Changes that need to be made:
     # - - - - - -
-    # 
+    # Edit - \\OPENMEDIAVAULT\appdata\swag\nginx\proxy-confs\nextcloud.subdomain.conf - Make sure this file exists (remove the.conf extension)
+    # Something else to edit but I can't remember. Check the log files for errors. Make sure to setup port forwarding
